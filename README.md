@@ -1,4 +1,4 @@
-# Hi, I'm **opokornyy** 👋 
+# Hi, I'm **Ondrej Pokorny** 👋 
 
 **Software Engineer** | Kubernetes & Cloud Native Enthusiast
 
